@@ -2,7 +2,7 @@
 - 👀 I’m interested in self
 - 🌱 I’m currently learning y
 - 💞️ I’m looking to collaborate on y
-- 📫 How to reach me n
+- 📫 How to reach me?
 
 <!---
 kolbasapodpivo/kolbasapodpivo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
